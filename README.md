@@ -10,12 +10,19 @@ If you're interested in building your own headstage test board, we strongly reco
 Details
 ----------
 The headstage test board uses voltage dividers to reduce the amplitude of test signals coming from a signal generator (either 
-through an audio jack, BNC, or bare wire interface). 500-Ohm resistors simulate the input impedance of extracellular electrodes.
+through an audio jack, BNC, or bare wire interface). 470KOhm resistors simulate the input impedance of extracellular electrodes.
 Each channel can be grounded independently using switches.
 
 Current specifications
 -----------------------------
-- 32 channels (Molex connector) or 16 channels (Omnetics connector)
+- 32-channel version (headstage-test-board/gerber) works with Open Ephys headstages
+- 16-channel version (headstage-test-board-16/gerber16) works with Neuralynx, Plexon, and Intan headstages
+
+Ordering information
+----------------------------
+Boards can be order through Sunstone's [ValueProto](https://www.sunstone.com/QuoteValueProto.aspx) service. 
+32-channel board size: 3.35" x 3.45" ($60 per board)
+16-channel board size: 3.35" x 2.45" ($50 per board)
 
 File types
 -------------

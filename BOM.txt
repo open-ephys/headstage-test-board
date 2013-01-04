@@ -1,15 +1,22 @@
 Qty.	DigiKey Part #
-4	450-1366-ND
-1	WM8807CT-ND
-34	CF18JT470KCT-ND
-2	CF18JT100KCT-ND
-2	CF18JT10K0CT-ND
-1	CF18JT100RCT-ND
-1	CF18JT20R0CT-ND
-1	CP1-3553NG-ND
-1	A31113-ND
-3	A31112-ND
-2	A26228-ND
+2	CF18JT100KCT-ND	100K resistor
+2	CF18JT10K0CT-ND	10K resistor
+1	CF18JT100RCT-ND	100 resistor
+1	CF18JT20R0CT-ND	20 resistor
+1	CP1-3553NG-ND	Audio jack connector
+1	A31113-ND			3-pin header
+3	A31112-ND			2-pin header
+2	A26228-ND			2-pin jumper	
+
+For 32-channel version:
+4	450-1366-ND		8-channel DIP Switch
+1	WM8807CT-ND		34-contact Molex connector
+34	CF18JT470KCT-ND	470K resistor
+
+For 16-channel version:
+2	450-1366-ND		8-channel DIP Switch
+18	CF18JT470KCT-ND	470K resistor
 
 Other:
 1 Right-angle BNC: PRT-10550 (SparkFun)
+1 18-pin male connector: A79042-001 (Omnetics, 16-channel version only)
