@@ -24,6 +24,16 @@ Boards can be order through Sunstone's [ValueProto](https://www.sunstone.com/Quo
 32-channel board size: 3.35" x 3.45" ($60 per board)
 16-channel board size: 3.35" x 2.45" ($50 per board)
 
+To order, upload gerber.zip or gerber16.zip, and specify the following layer mapping:
+- *.slk = Top Silkscreen
+- *.smt = Top Solder Mask
+- *.top = Top Copper
+- *.bot = Bottom Copper
+- *.smb = Bottom Solder Mask
+- *.drd = Plated Holes
+- *.drl = Tool Size Report
+- *.oln = Board Outline
+
 File types
 -------------
 - .ai = Adobe Illustrator files; contain images of hardware
