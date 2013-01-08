@@ -16,7 +16,7 @@ Each channel can be grounded independently using switches.
 Current specifications
 -----------------------------
 - 32-channel version (headstage-test-board/gerber) works with Open Ephys headstages
-- 32-channel version (headstage-test-board-32/gerber32) works with RHD2132 headstages (Intan and Open Ephys)
+- 32-channel version (headstage-test-board-omnetics-32/gerber-omnetics-32) works with RHD2132 headstages (Intan and Open Ephys)
 - 16-channel version (headstage-test-board-16/gerber16) works with Neuralynx, Plexon, and Intan headstages
 
 Ordering information
@@ -25,7 +25,7 @@ Boards can be order through Sunstone's [ValueProto](https://www.sunstone.com/Quo
 32-channel board size: 3.35" x 3.45" ($60 per board)
 16-channel board size: 3.35" x 2.45" ($50 per board)
 
-To order, upload gerber.zip or gerber16.zip, and specify the following layer mapping:
+To order, upload gerber.zip, gerber-omnetics-32.zip, or gerber16.zip, and specify the following layer mapping:
 - *.slk = Top Silkscreen
 - *.smt = Top Solder Mask
 - *.top = Top Copper
