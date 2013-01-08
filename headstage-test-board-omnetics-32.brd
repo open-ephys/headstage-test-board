@@ -1636,6 +1636,8 @@
 <rectangle x1="71.8693" y1="26.3271" x2="72.1233" y2="26.3525" layer="51"/>
 <rectangle x1="71.8947" y1="26.3525" x2="72.1233" y2="26.3779" layer="51"/>
 <rectangle x1="71.9201" y1="26.3779" x2="72.0979" y2="26.4033" layer="51"/>
+<text x="40.8432" y="67.0306" size="1.016" layer="51" font="vector" ratio="15">CH1</text>
+<text x="42.4942" y="69.0626" size="1.016" layer="51" font="vector" ratio="15" rot="SR180">v</text>
 </plain>
 <libraries>
 <library name="josh">
