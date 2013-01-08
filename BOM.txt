@@ -10,7 +10,7 @@ Qty.	DigiKey Part #
 
 For 32-channel version:
 4	450-1366-ND		8-channel DIP Switch
-1	WM8807CT-ND		34-contact Molex connector
+1	WM8807CT-ND		34-contact Molex connector (RHA2132 headstage)
 34	CF18JT470KCT-ND	470K resistor
 
 For 16-channel version:
@@ -20,3 +20,4 @@ For 16-channel version:
 Other:
 1 Right-angle BNC: PRT-10550 (SparkFun)
 1 18-pin male connector: A79042-001 (Omnetics, 16-channel version only)
+1 36-pin male connector: A79026-001 (Omnetics, RHD2132 headstage)

@@ -16,6 +16,7 @@ Each channel can be grounded independently using switches.
 Current specifications
 -----------------------------
 - 32-channel version (headstage-test-board/gerber) works with Open Ephys headstages
+- 32-channel version (headstage-test-board-32/gerber32) works with RHD2132 headstages (Intan and Open Ephys)
 - 16-channel version (headstage-test-board-16/gerber16) works with Neuralynx, Plexon, and Intan headstages
 
 Ordering information
