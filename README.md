@@ -45,4 +45,4 @@ File types
 - .md = Markdown files; most likely a README file; can be viewed with any text edtior
 - "gerber" files (.top, .bsk, .oln, etc.) = contain machine-readable instructions for creating the printed circuit board; these are sent to a fab house (such as Sunstone Circuits) for PCB production
 
-DISCLAIMER: We don't recommend using any of the tools from Open Ephys for actual experiments until they've been tested more thoroughly. If you'd like to know which tests we've run or plan to run, please get in touch with us via the Open Ephys [contact](http://open-ephys.com/contact) page.
+NOTE: If you're interested in building any of the Open Ephys tools on your own, please get in touch with us via our [contact](http://open-ephys.com/contact) page.
