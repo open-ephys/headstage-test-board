@@ -11,11 +11,11 @@ Qty.	DigiKey Part #
 For 32-channel version:
 4	450-1366-ND		8-channel DIP Switch
 1	WM8807CT-ND		34-contact Molex connector (RHA2132 headstage)
-34	CF18JT470KCT-ND	470K resistor
+34	CF18JT470KCT-ND	470K resistor (R1 through R32)
 
 For 16-channel version:
 2	450-1366-ND		8-channel DIP Switch
-18	CF18JT470KCT-ND	470K resistor
+18	CF18JT470KCT-ND	470K resistor (R1 through R16)
 
 Other:
 1 Right-angle BNC: PRT-10550 (SparkFun)
